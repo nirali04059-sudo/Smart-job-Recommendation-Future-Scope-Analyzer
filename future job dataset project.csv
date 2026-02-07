@@ -1,0 +1,501 @@
+Job ID,Job Title,Industry,Job Location,Annual Salry (USD),Required skills,Category skills,Application ,Remote Work,Company Size,Job Posting Date,Salary band,Exeperience level ,Future Recommended
+1,Quantum Researcher,Quantum Computing,Singapore,175780,"Linear Algebra, Quantum Algorithms",Programing,MyCareersFuture (SG),No,Large,7/22/2025,High,Senior,Medium Recommended
+2,Renewable Energy Engineer,Green Tech,Singapore,137481,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),Yes,Large,9/26/2025,Medium,Mid,Medium Recommended
+3,Quantum Researcher,Quantum Computing,Tokyo,182081,"Linear Algebra, Qiskit",Quantum Computing,Rikunabi (Japan),No,Medium,12/31/2025,High,Senior,Highly Recommended
+4,Sustainability Analyst,Green Tech,Singapore,113822,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Large,5/29/2025,Medium,Mid,Medium Recommended
+5,Smart Contract Engineer,Blockchain,London,92575,"Rust, Solidity",Blockchain,Indeed (UK),Yes,Small,3/30/2025,Low,Entry,Medium Recommended
+6,Smart Contract Engineer,Blockchain,Tokyo,173379,"Solidity, Rust",Blockchain,Rikunabi (Japan),Yes,Medium,8/10/2025,High,Senior,Highly Recommended
+7,Renewable Energy Engineer,Green Tech,New York,99659,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),No,Small,5/27/2025,Low,Entry,Medium Recommended
+8,Quantum Software Developer,Quantum Computing,London,210842,"Qiskit, Quantum Algorithms",Quantum Computing,Indeed (UK),Yes,Large,4/13/2025,High,Senior,Highly Recommended
+9,Sustainability Analyst,Green Tech,New York,189475,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),No,Small,4/12/2025,High,Senior,Medium Recommended
+10,Blockchain Developer,Blockchain,Tokyo,228992,"Ethereum, Solidity",Blockchain,Rikunabi (Japan),No,Large,6/28/2025,High,Senior,Highly Recommended
+11,Quantum Researcher,Quantum Computing,New York,122847,"Quantum Algorithms, Qiskit",Quantum Computing,Linkedin (USA),Yes,Small,2/9/2025,Medium,Mid,Highly Recommended
+12,AI Engineer,AI,Singapore,136880,"TensorFlow, PyTorch",AI/ML,MyCareersFuture (SG),Yes,Small,3/15/2025,Medium,Mid,Highly Recommended
+13,Data Scientist,AI,Singapore,50387,"Python, TensorFlow",AI/ML,MyCareersFuture (SG),Yes,Medium,3/2/2025,Low,Entry,Medium Recommended
+14,Quantum Researcher,Quantum Computing,Dubai,194786,"Linear Algebra, Qiskit",Quantum Computing,Bayt (UAE),No,Large,5/2/2025,High,Senior,Highly Recommended
+15,Smart Contract Engineer,Blockchain,Berlin,54857,"Rust, Ethereum",Blockchain,Stepstone (Germany),Yes,Large,12/6/2025,Low,Entry,Medium Recommended
+16,Blockchain Developer,Blockchain,Tokyo,189314,"Solidity, Ethereum",Blockchain,Rikunabi (Japan),No,Medium,7/23/2025,High,Senior,Highly Recommended
+17,Renewable Energy Engineer,Green Tech,London,214393,"Climate Data Analysis, Energy Modeling",Data Analystics,Indeed (UK),Yes,Small,4/11/2025,High,Senior,Medium Recommended
+18,Data Scientist,AI,Singapore,190743,"TensorFlow, Python",AI/ML,MyCareersFuture (SG),Yes,Small,10/7/2025,High,Senior,Highly Recommended
+19,Quantum Software Developer,Quantum Computing,Dubai,127617,"Qiskit, Quantum Algorithms",Quantum Computing,Bayt (UAE),Yes,Large,2/23/2025,Medium,Mid,Highly Recommended
+20,Data Scientist,AI,Berlin,121525,"Python, TensorFlow",AI/ML,Stepstone (Germany),Yes,Large,12/15/2025,Medium,Mid,Highly Recommended
+21,Smart Contract Engineer,Blockchain,Tokyo,180309,"Solidity, Ethereum",Blockchain,Rikunabi (Japan),Yes,Small,11/23/2025,High,Senior,Highly Recommended
+22,Quantum Researcher,Quantum Computing,New York,179393,"Quantum Algorithms, Linear Algebra",Programing,Linkedin (USA),No,Small,6/15/2025,High,Senior,Medium Recommended
+23,Quantum Software Developer,Quantum Computing,Berlin,169818,"Qiskit, Linear Algebra",Quantum Computing,Stepstone (Germany),Yes,Large,7/16/2025,High,Senior,Highly Recommended
+24,Sustainability Analyst,Green Tech,New York,183315,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),No,Large,1/24/2025,High,Senior,Medium Recommended
+25,Quantum Researcher,Quantum Computing,Tokyo,130298,"Qiskit, Quantum Algorithms",Quantum Computing,Rikunabi (Japan),No,Large,10/13/2025,Medium,Mid,Highly Recommended
+26,Blockchain Developer,Blockchain,New York,147535,"Rust, Ethereum",Blockchain,Linkedin (USA),Yes,Large,7/19/2025,Medium,Mid,Highly Recommended
+27,Quantum Software Developer,Quantum Computing,Berlin,143783,"Linear Algebra, Qiskit",Quantum Computing,Stepstone (Germany),No,Small,2/10/2025,Medium,Mid,Medium Recommended
+28,Smart Contract Engineer,Blockchain,Dubai,228902,"Solidity, Rust",Blockchain,Bayt (UAE),No,Small,1/1/2025,High,Senior,Medium Recommended
+29,AI Engineer,AI,New York,107735,"PyTorch, TensorFlow",AI/ML,Linkedin (USA),Yes,Medium,12/18/2025,Medium,Mid,Highly Recommended
+30,Quantum Software Developer,Quantum Computing,Tokyo,160752,"Qiskit, Linear Algebra",Quantum Computing,Rikunabi (Japan),No,Small,4/5/2025,High,Senior,Highly Recommended
+31,Renewable Energy Engineer,Green Tech,London,103065,"Climate Data Analysis, Energy Modeling",Data Analystics,Indeed (UK),No,Large,5/4/2025,Medium,Mid,Medium Recommended
+32,Renewable Energy Engineer,Green Tech,London,94222,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),No,Medium,7/13/2025,Low,Entry,Medium Recommended
+33,Smart Contract Engineer,Blockchain,Singapore,240202,"Solidity, Ethereum",Blockchain,MyCareersFuture (SG),No,Large,11/6/2025,High,Senior,Highly Recommended
+34,AI Engineer,AI,Berlin,175142,"TensorFlow, PyTorch",AI/ML,Stepstone (Germany),Yes,Large,1/18/2025,High,Senior,Highly Recommended
+35,AI Engineer,AI,London,200374,"PyTorch, Python",AI/ML,Indeed (UK),Yes,Small,3/16/2025,High,Senior,Highly Recommended
+36,Blockchain Developer,Blockchain,London,148378,"Ethereum, Solidity",Blockchain,Indeed (UK),Yes,Medium,10/6/2025,Medium,Mid,Highly Recommended
+37,Quantum Researcher,Quantum Computing,Tokyo,195771,"Qiskit, Linear Algebra",Quantum Computing,Rikunabi (Japan),Yes,Large,2/25/2025,High,Senior,Highly Recommended
+38,Renewable Energy Engineer,Green Tech,Singapore,201161,"Energy Modeling, Climate Data Analysis",Data Analystics,MyCareersFuture (SG),No,Large,10/13/2025,High,Senior,Medium Recommended
+39,ML Researcher,AI,Berlin,76133,"TensorFlow, Python",AI/ML,Stepstone (Germany),Yes,Small,12/27/2025,Low,Entry,Medium Recommended
+40,Blockchain Developer,Blockchain,London,187672,"Rust, Solidity",Blockchain,Indeed (UK),Yes,Large,10/12/2025,High,Senior,Highly Recommended
+41,Quantum Software Developer,Quantum Computing,Tokyo,227029,"Linear Algebra, Quantum Algorithms",Programing,Rikunabi (Japan),No,Medium,12/31/2025,High,Senior,Medium Recommended
+42,Smart Contract Engineer,Blockchain,Dubai,96432,"Ethereum, Rust",Blockchain,Bayt (UAE),No,Small,5/14/2025,Low,Entry,Medium Recommended
+43,Quantum Software Developer,Quantum Computing,London,145451,"Linear Algebra, Quantum Algorithms",Programing,Indeed (UK),Yes,Medium,7/9/2025,Medium,Mid,Medium Recommended
+44,ML Researcher,AI,London,56990,"Python, TensorFlow",AI/ML,Indeed (UK),No,Small,3/6/2025,Low,Entry,Not Recommended
+45,Blockchain Developer,Blockchain,Dubai,155708,"Ethereum, Solidity",Blockchain,Bayt (UAE),No,Small,1/30/2025,High,Senior,Medium Recommended
+46,Quantum Software Developer,Quantum Computing,London,222633,"Qiskit, Quantum Algorithms",Quantum Computing,Indeed (UK),No,Large,8/8/2025,High,Senior,Highly Recommended
+47,Renewable Energy Engineer,Green Tech,Singapore,188452,"Energy Modeling, Climate Data Analysis",Data Analystics,MyCareersFuture (SG),Yes,Small,1/19/2025,High,Senior,Medium Recommended
+48,Renewable Energy Engineer,Green Tech,New York,168462,"Energy Modeling, Climate Data Analysis",Data Analystics,Linkedin (USA),Yes,Large,12/25/2025,High,Senior,Highly Recommended
+49,Quantum Software Developer,Quantum Computing,New York,54770,"Quantum Algorithms, Linear Algebra",Programing,Linkedin (USA),No,Small,5/26/2025,Low,Entry,Not Recommended
+50,Quantum Researcher,Quantum Computing,Dubai,224859,"Linear Algebra, Quantum Algorithms",Programing,Bayt (UAE),Yes,Medium,6/26/2025,High,Senior,Highly Recommended
+51,Renewable Energy Engineer,Green Tech,New York,87478,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),Yes,Large,2/18/2025,Low,Entry,Medium Recommended
+52,AI Engineer,AI,New York,98138,"Python, TensorFlow",AI/ML,Linkedin (USA),Yes,Small,8/25/2025,Low,Entry,Medium Recommended
+53,Sustainability Analyst,Green Tech,Singapore,213723,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),Yes,Medium,11/6/2025,High,Senior,Highly Recommended
+54,Smart Contract Engineer,Blockchain,Berlin,178953,"Rust, Solidity",Blockchain,Stepstone (Germany),No,Large,1/26/2025,High,Senior,Highly Recommended
+55,Smart Contract Engineer,Blockchain,Berlin,53902,"Ethereum, Solidity",Blockchain,Stepstone (Germany),No,Large,5/8/2025,Low,Entry,Medium Recommended
+56,ML Researcher,AI,Berlin,144942,"TensorFlow, PyTorch",AI/ML,Stepstone (Germany),Yes,Medium,12/6/2025,Medium,Mid,Highly Recommended
+57,Quantum Researcher,Quantum Computing,New York,177875,"Quantum Algorithms, Linear Algebra",Programing,Linkedin (USA),No,Small,1/24/2025,High,Senior,Medium Recommended
+58,Quantum Software Developer,Quantum Computing,New York,60387,"Quantum Algorithms, Qiskit",Quantum Computing,Linkedin (USA),Yes,Small,11/16/2025,Low,Entry,Medium Recommended
+59,Sustainability Analyst,Green Tech,Singapore,148827,"Energy Modeling, Climate Data Analysis",Data Analystics,MyCareersFuture (SG),Yes,Small,3/13/2025,Medium,Mid,Medium Recommended
+60,Smart Contract Engineer,Blockchain,New York,237964,"Ethereum, Rust",Blockchain,Linkedin (USA),No,Medium,4/18/2025,High,Senior,Highly Recommended
+61,Blockchain Developer,Blockchain,Tokyo,123218,"Rust, Solidity",Blockchain,Rikunabi (Japan),Yes,Small,8/21/2025,Medium,Mid,Medium Recommended
+62,Renewable Energy Engineer,Green Tech,Singapore,228583,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Large,9/3/2025,High,Senior,Medium Recommended
+63,Smart Contract Engineer,Blockchain,Tokyo,92895,"Rust, Ethereum",Blockchain,Rikunabi (Japan),No,Small,12/21/2025,Low,Entry,Medium Recommended
+64,Blockchain Developer,Blockchain,Dubai,79151,"Rust, Solidity",Blockchain,Bayt (UAE),Yes,Large,5/27/2025,Low,Entry,Medium Recommended
+65,Quantum Researcher,Quantum Computing,London,80631,"Quantum Algorithms, Qiskit",Quantum Computing,Indeed (UK),Yes,Medium,3/15/2025,Low,Entry,Medium Recommended
+66,AI Engineer,AI,Dubai,131254,"PyTorch, Python",AI/ML,Bayt (UAE),No,Small,5/17/2025,Medium,Mid,Medium Recommended
+67,Sustainability Analyst,Green Tech,Tokyo,233720,"Energy Modeling, Climate Data Analysis",Data Analystics,Rikunabi (Japan),Yes,Medium,10/19/2025,High,Senior,Highly Recommended
+68,Blockchain Developer,Blockchain,New York,220074,"Ethereum, Solidity",Blockchain,Linkedin (USA),Yes,Large,9/8/2025,High,Senior,Highly Recommended
+69,Smart Contract Engineer,Blockchain,Dubai,87609,"Ethereum, Rust",Blockchain,Bayt (UAE),No,Large,12/1/2025,Low,Entry,Medium Recommended
+70,Renewable Energy Engineer,Green Tech,London,77980,"Climate Data Analysis, Energy Modeling",Data Analystics,Indeed (UK),No,Medium,7/15/2025,Low,Entry,Medium Recommended
+71,Blockchain Developer,Blockchain,Berlin,153287,"Ethereum, Solidity",Blockchain,Stepstone (Germany),Yes,Medium,10/18/2025,High,Senior,Highly Recommended
+72,Renewable Energy Engineer,Green Tech,New York,92067,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),No,Medium,1/2/2025,Low,Entry,Medium Recommended
+73,Data Scientist,AI,London,249885,"PyTorch, Python",AI/ML,Indeed (UK),No,Small,5/15/2025,High,Senior,Highly Recommended
+74,Quantum Researcher,Quantum Computing,Singapore,59737,"Quantum Algorithms, Linear Algebra",Programing,MyCareersFuture (SG),No,Large,12/3/2025,Low,Entry,Not Recommended
+75,Renewable Energy Engineer,Green Tech,Tokyo,190693,"Climate Data Analysis, Energy Modeling",Data Analystics,Rikunabi (Japan),No,Large,8/16/2025,High,Senior,Medium Recommended
+76,Data Scientist,AI,Dubai,135752,"PyTorch, Python",AI/ML,Bayt (UAE),Yes,Small,5/15/2025,Medium,Mid,Highly Recommended
+77,Quantum Researcher,Quantum Computing,London,249565,"Quantum Algorithms, Linear Algebra",Programing,Indeed (UK),Yes,Small,4/14/2025,High,Senior,Medium Recommended
+78,Data Scientist,AI,Dubai,89447,"Python, PyTorch",AI/ML,Bayt (UAE),No,Medium,3/13/2025,Low,Entry,Medium Recommended
+79,Data Scientist,AI,Dubai,249952,"PyTorch, Python",AI/ML,Bayt (UAE),Yes,Medium,7/3/2025,High,Senior,Highly Recommended
+80,Smart Contract Engineer,Blockchain,New York,161896,"Rust, Solidity",Blockchain,Linkedin (USA),Yes,Medium,8/6/2025,High,Senior,Highly Recommended
+81,Sustainability Analyst,Green Tech,Dubai,195896,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),No,Small,4/10/2025,High,Senior,Medium Recommended
+82,Blockchain Developer,Blockchain,New York,166524,"Rust, Ethereum",Blockchain,Linkedin (USA),Yes,Small,7/20/2025,High,Senior,Highly Recommended
+83,Blockchain Developer,Blockchain,Dubai,201048,"Rust, Solidity",Blockchain,Bayt (UAE),Yes,Large,7/17/2025,High,Senior,Highly Recommended
+84,Smart Contract Engineer,Blockchain,Tokyo,141598,"Rust, Ethereum",Blockchain,Rikunabi (Japan),No,Large,3/26/2025,Medium,Mid,Medium Recommended
+85,Sustainability Analyst,Green Tech,London,128803,"Climate Data Analysis, Energy Modeling",Data Analystics,Indeed (UK),Yes,Medium,11/23/2025,Medium,Mid,Medium Recommended
+86,Quantum Software Developer,Quantum Computing,Singapore,100859,"Quantum Algorithms, Linear Algebra",Programing,MyCareersFuture (SG),Yes,Small,7/8/2025,Medium,Mid,Medium Recommended
+87,Quantum Researcher,Quantum Computing,Dubai,236421,"Linear Algebra, Qiskit",Quantum Computing,Bayt (UAE),Yes,Small,7/17/2025,High,Senior,Highly Recommended
+88,Quantum Software Developer,Quantum Computing,Berlin,182275,"Quantum Algorithms, Linear Algebra",Programing,Stepstone (Germany),No,Medium,11/22/2025,High,Senior,Medium Recommended
+89,Quantum Software Developer,Quantum Computing,Dubai,229560,"Quantum Algorithms, Qiskit",Quantum Computing,Bayt (UAE),Yes,Medium,9/20/2025,High,Senior,Highly Recommended
+90,Quantum Software Developer,Quantum Computing,Tokyo,126173,"Qiskit, Quantum Algorithms",Quantum Computing,Rikunabi (Japan),No,Medium,2/20/2025,Medium,Mid,Medium Recommended
+91,Renewable Energy Engineer,Green Tech,Singapore,208192,"Energy Modeling, Climate Data Analysis",Data Analystics,MyCareersFuture (SG),No,Small,11/13/2025,High,Senior,Medium Recommended
+92,Sustainability Analyst,Green Tech,Singapore,220796,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Medium,6/23/2025,High,Senior,Medium Recommended
+93,Quantum Researcher,Quantum Computing,Dubai,114350,"Linear Algebra, Qiskit",Quantum Computing,Bayt (UAE),No,Large,12/10/2025,Medium,Mid,Medium Recommended
+94,Smart Contract Engineer,Blockchain,Dubai,79916,"Ethereum, Solidity",Blockchain,Bayt (UAE),Yes,Small,2/28/2025,Low,Entry,Medium Recommended
+95,Smart Contract Engineer,Blockchain,London,187831,"Solidity, Ethereum",Blockchain,Indeed (UK),No,Medium,7/4/2025,High,Senior,Highly Recommended
+96,Blockchain Developer,Blockchain,Berlin,199549,"Rust, Solidity",Blockchain,Stepstone (Germany),Yes,Small,7/26/2025,High,Senior,Highly Recommended
+97,Renewable Energy Engineer,Green Tech,Dubai,62257,"Energy Modeling, Climate Data Analysis",Data Analystics,Bayt (UAE),Yes,Small,8/2/2025,Low,Entry,Medium Recommended
+98,Smart Contract Engineer,Blockchain,Tokyo,113775,"Solidity, Ethereum",Blockchain,Rikunabi (Japan),Yes,Medium,6/17/2025,Medium,Mid,Medium Recommended
+99,Smart Contract Engineer,Blockchain,Tokyo,156267,"Solidity, Ethereum",Blockchain,Rikunabi (Japan),Yes,Small,6/20/2025,High,Senior,Highly Recommended
+100,AI Engineer,AI,Tokyo,201677,"PyTorch, TensorFlow",AI/ML,Rikunabi (Japan),No,Large,12/5/2025,High,Senior,Highly Recommended
+101,Data Scientist,AI,New York,147467,"Python, PyTorch",AI/ML,Linkedin (USA),Yes,Small,10/11/2025,Medium,Mid,Highly Recommended
+102,Smart Contract Engineer,Blockchain,London,247521,"Ethereum, Rust",Blockchain,Indeed (UK),Yes,Large,10/19/2025,High,Senior,Highly Recommended
+103,ML Researcher,AI,Tokyo,192471,"Python, PyTorch",AI/ML,Rikunabi (Japan),Yes,Medium,4/25/2025,High,Senior,Highly Recommended
+104,Quantum Researcher,Quantum Computing,London,70638,"Quantum Algorithms, Linear Algebra",Programing,Indeed (UK),No,Large,8/19/2025,Low,Entry,Not Recommended
+105,Smart Contract Engineer,Blockchain,New York,138547,"Solidity, Ethereum",Blockchain,Linkedin (USA),No,Medium,5/7/2025,Medium,Mid,Medium Recommended
+106,Quantum Researcher,Quantum Computing,Dubai,101188,"Qiskit, Quantum Algorithms",Quantum Computing,Bayt (UAE),Yes,Small,12/12/2025,Medium,Mid,Medium Recommended
+107,AI Engineer,AI,Singapore,86671,"PyTorch, TensorFlow",AI/ML,MyCareersFuture (SG),Yes,Large,4/30/2025,Low,Entry,Highly Recommended
+108,Quantum Researcher,Quantum Computing,London,134790,"Quantum Algorithms, Linear Algebra",Programing,Indeed (UK),Yes,Small,12/14/2025,Medium,Mid,Medium Recommended
+109,Renewable Energy Engineer,Green Tech,Dubai,214976,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),No,Small,10/31/2025,High,Senior,Medium Recommended
+110,Data Scientist,AI,London,147423,"Python, TensorFlow",AI/ML,Indeed (UK),Yes,Medium,6/22/2025,Medium,Mid,Highly Recommended
+111,Sustainability Analyst,Green Tech,Singapore,202836,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Large,5/20/2025,High,Senior,Medium Recommended
+112,Quantum Researcher,Quantum Computing,Dubai,93416,"Linear Algebra, Quantum Algorithms",Programing,Bayt (UAE),Yes,Medium,8/25/2025,Low,Entry,Medium Recommended
+113,Data Scientist,AI,Singapore,98160,"PyTorch, TensorFlow",AI/ML,MyCareersFuture (SG),Yes,Medium,9/13/2025,Low,Entry,Medium Recommended
+114,ML Researcher,AI,Tokyo,161667,"TensorFlow, PyTorch",AI/ML,Rikunabi (Japan),No,Small,9/20/2025,High,Senior,Highly Recommended
+115,Smart Contract Engineer,Blockchain,Tokyo,242785,"Rust, Solidity",Blockchain,Rikunabi (Japan),No,Small,5/18/2025,High,Senior,Medium Recommended
+116,Quantum Researcher,Quantum Computing,London,212646,"Linear Algebra, Qiskit",Quantum Computing,Indeed (UK),No,Medium,7/16/2025,High,Senior,Highly Recommended
+117,ML Researcher,AI,New York,63215,"Python, PyTorch",AI/ML,Linkedin (USA),No,Medium,1/4/2025,Low,Entry,Medium Recommended
+118,Smart Contract Engineer,Blockchain,London,86040,"Rust, Solidity",Blockchain,Indeed (UK),No,Small,3/8/2025,Low,Entry,Medium Recommended
+119,Quantum Software Developer,Quantum Computing,Dubai,51023,"Linear Algebra, Qiskit",Quantum Computing,Bayt (UAE),Yes,Medium,4/14/2025,Low,Entry,Medium Recommended
+120,AI Engineer,AI,Dubai,52746,"TensorFlow, Python",AI/ML,Bayt (UAE),No,Medium,9/19/2025,Low,Entry,Medium Recommended
+121,Sustainability Analyst,Green Tech,New York,142705,"Energy Modeling, Climate Data Analysis",Data Analystics,Linkedin (USA),Yes,Medium,3/14/2025,Medium,Mid,Medium Recommended
+122,Sustainability Analyst,Green Tech,Berlin,174051,"Climate Data Analysis, Energy Modeling",Data Analystics,Stepstone (Germany),No,Small,9/6/2025,High,Senior,Medium Recommended
+123,Quantum Software Developer,Quantum Computing,Berlin,202562,"Quantum Algorithms, Qiskit",Quantum Computing,Stepstone (Germany),No,Small,4/19/2025,High,Senior,Highly Recommended
+124,Renewable Energy Engineer,Green Tech,Tokyo,152190,"Climate Data Analysis, Energy Modeling",Data Analystics,Rikunabi (Japan),No,Large,3/12/2025,High,Senior,Medium Recommended
+125,Smart Contract Engineer,Blockchain,London,67821,"Rust, Ethereum",Blockchain,Indeed (UK),Yes,Large,12/17/2025,Low,Entry,Medium Recommended
+126,Quantum Researcher,Quantum Computing,New York,207175,"Linear Algebra, Qiskit",Quantum Computing,Linkedin (USA),Yes,Large,7/27/2025,High,Senior,Highly Recommended
+127,Renewable Energy Engineer,Green Tech,Singapore,74744,"Energy Modeling, Climate Data Analysis",Data Analystics,MyCareersFuture (SG),Yes,Large,12/17/2025,Low,Entry,Medium Recommended
+128,Quantum Software Developer,Quantum Computing,Berlin,202805,"Linear Algebra, Quantum Algorithms",Programing,Stepstone (Germany),No,Medium,3/25/2025,High,Senior,Medium Recommended
+129,Data Scientist,AI,Tokyo,149528,"Python, TensorFlow",AI/ML,Rikunabi (Japan),Yes,Medium,11/18/2025,Medium,Mid,Highly Recommended
+130,Sustainability Analyst,Green Tech,London,142226,"Climate Data Analysis, Energy Modeling",Data Analystics,Indeed (UK),No,Medium,9/30/2025,Medium,Mid,Medium Recommended
+131,Quantum Researcher,Quantum Computing,Berlin,200826,"Qiskit, Linear Algebra",Quantum Computing,Stepstone (Germany),No,Medium,4/27/2025,High,Senior,Highly Recommended
+132,Quantum Software Developer,Quantum Computing,Berlin,104160,"Quantum Algorithms, Linear Algebra",Programing,Stepstone (Germany),No,Large,6/12/2025,Medium,Mid,Medium Recommended
+133,AI Engineer,AI,Singapore,229764,"Python, PyTorch",AI/ML,MyCareersFuture (SG),Yes,Large,5/30/2025,High,Senior,Highly Recommended
+134,Quantum Software Developer,Quantum Computing,New York,79013,"Qiskit, Quantum Algorithms",Quantum Computing,Linkedin (USA),Yes,Small,10/31/2025,Low,Entry,Medium Recommended
+135,Quantum Researcher,Quantum Computing,Tokyo,125838,"Qiskit, Linear Algebra",Quantum Computing,Rikunabi (Japan),No,Small,1/20/2025,Medium,Mid,Medium Recommended
+136,ML Researcher,AI,London,207673,"PyTorch, TensorFlow",AI/ML,Indeed (UK),Yes,Small,12/25/2025,High,Senior,Highly Recommended
+137,Sustainability Analyst,Green Tech,London,233670,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),Yes,Small,5/14/2025,High,Senior,Medium Recommended
+138,Blockchain Developer,Blockchain,New York,79886,"Solidity, Ethereum",Blockchain,Linkedin (USA),Yes,Medium,3/28/2025,Low,Entry,Medium Recommended
+139,Blockchain Developer,Blockchain,Berlin,148516,"Rust, Ethereum",Blockchain,Stepstone (Germany),Yes,Medium,3/20/2025,Medium,Mid,Highly Recommended
+140,Renewable Energy Engineer,Green Tech,London,84598,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),No,Medium,5/7/2025,Low,Entry,Medium Recommended
+141,Blockchain Developer,Blockchain,New York,157579,"Solidity, Ethereum",Blockchain,Linkedin (USA),No,Large,11/21/2025,High,Senior,Highly Recommended
+142,AI Engineer,AI,Singapore,151674,"Python, TensorFlow",AI/ML,MyCareersFuture (SG),Yes,Medium,9/1/2025,High,Senior,Highly Recommended
+143,Blockchain Developer,Blockchain,London,245022,"Solidity, Rust",Blockchain,Indeed (UK),Yes,Small,7/31/2025,High,Senior,Highly Recommended
+144,Renewable Energy Engineer,Green Tech,London,150747,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),No,Large,4/29/2025,High,Senior,Medium Recommended
+145,Quantum Researcher,Quantum Computing,Berlin,155555,"Qiskit, Linear Algebra",Quantum Computing,Stepstone (Germany),No,Medium,3/19/2025,High,Senior,Highly Recommended
+146,Smart Contract Engineer,Blockchain,Tokyo,109969,"Solidity, Ethereum",Blockchain,Rikunabi (Japan),No,Medium,5/29/2025,Medium,Mid,Medium Recommended
+147,Sustainability Analyst,Green Tech,London,240330,"Climate Data Analysis, Energy Modeling",Data Analystics,Indeed (UK),No,Large,3/13/2025,High,Senior,Medium Recommended
+148,Smart Contract Engineer,Blockchain,Tokyo,115024,"Solidity, Ethereum",Blockchain,Rikunabi (Japan),Yes,Small,3/2/2025,Medium,Mid,Medium Recommended
+149,Quantum Researcher,Quantum Computing,Tokyo,243406,"Quantum Algorithms, Linear Algebra",Programing,Rikunabi (Japan),Yes,Large,8/17/2025,High,Senior,Highly Recommended
+150,Renewable Energy Engineer,Green Tech,Berlin,193325,"Climate Data Analysis, Energy Modeling",Data Analystics,Stepstone (Germany),No,Large,3/22/2025,High,Senior,Medium Recommended
+151,Quantum Researcher,Quantum Computing,Dubai,239742,"Qiskit, Quantum Algorithms",Quantum Computing,Bayt (UAE),No,Large,10/18/2025,High,Senior,Highly Recommended
+152,Quantum Software Developer,Quantum Computing,Berlin,123810,"Linear Algebra, Quantum Algorithms",Programing,Stepstone (Germany),Yes,Large,4/24/2025,Medium,Mid,Medium Recommended
+153,Data Scientist,AI,Berlin,237464,"TensorFlow, Python",AI/ML,Stepstone (Germany),Yes,Large,1/9/2025,High,Senior,Highly Recommended
+154,Blockchain Developer,Blockchain,Singapore,195943,"Solidity, Ethereum",Blockchain,MyCareersFuture (SG),No,Medium,10/14/2025,High,Senior,Highly Recommended
+155,ML Researcher,AI,London,144746,"Python, TensorFlow",AI/ML,Indeed (UK),No,Large,1/23/2025,Medium,Mid,Highly Recommended
+156,AI Engineer,AI,London,97601,"Python, PyTorch",AI/ML,Indeed (UK),No,Medium,2/21/2025,Low,Entry,Medium Recommended
+157,Sustainability Analyst,Green Tech,New York,72704,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),No,Small,4/23/2025,Low,Entry,Not Recommended
+158,Renewable Energy Engineer,Green Tech,Tokyo,181649,"Climate Data Analysis, Energy Modeling",Data Analystics,Rikunabi (Japan),Yes,Medium,7/6/2025,High,Senior,Highly Recommended
+159,ML Researcher,AI,Singapore,175481,"Python, TensorFlow",AI/ML,MyCareersFuture (SG),No,Medium,4/30/2025,High,Senior,Highly Recommended
+160,AI Engineer,AI,Tokyo,160689,"Python, TensorFlow",AI/ML,Rikunabi (Japan),Yes,Small,2/27/2025,High,Senior,Highly Recommended
+161,Quantum Researcher,Quantum Computing,Dubai,200863,"Quantum Algorithms, Qiskit",Quantum Computing,Bayt (UAE),Yes,Small,7/13/2025,High,Senior,Highly Recommended
+162,Sustainability Analyst,Green Tech,Singapore,78820,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Medium,12/16/2025,Low,Entry,Medium Recommended
+163,Quantum Software Developer,Quantum Computing,Tokyo,162922,"Linear Algebra, Quantum Algorithms",Programing,Rikunabi (Japan),No,Small,12/14/2025,High,Senior,Medium Recommended
+164,Quantum Researcher,Quantum Computing,New York,100994,"Quantum Algorithms, Qiskit",Quantum Computing,Linkedin (USA),No,Small,1/28/2025,Medium,Mid,Medium Recommended
+165,Quantum Software Developer,Quantum Computing,Berlin,202658,"Qiskit, Linear Algebra",Quantum Computing,Stepstone (Germany),Yes,Medium,5/25/2025,High,Senior,Highly Recommended
+166,AI Engineer,AI,Dubai,202405,"TensorFlow, PyTorch",AI/ML,Bayt (UAE),No,Medium,6/24/2025,High,Senior,Highly Recommended
+167,Quantum Software Developer,Quantum Computing,Berlin,175493,"Quantum Algorithms, Linear Algebra",Programing,Stepstone (Germany),No,Large,7/3/2025,High,Senior,Medium Recommended
+168,Smart Contract Engineer,Blockchain,Singapore,126396,"Ethereum, Rust",Blockchain,MyCareersFuture (SG),No,Small,3/1/2025,Medium,Mid,Medium Recommended
+169,Smart Contract Engineer,Blockchain,Singapore,219622,"Rust, Ethereum",Blockchain,MyCareersFuture (SG),No,Small,1/17/2025,High,Senior,Medium Recommended
+170,Renewable Energy Engineer,Green Tech,Singapore,153416,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Medium,11/10/2025,High,Senior,Medium Recommended
+171,Quantum Researcher,Quantum Computing,Berlin,98465,"Linear Algebra, Quantum Algorithms",Programing,Stepstone (Germany),Yes,Large,7/2/2025,Low,Entry,Medium Recommended
+172,Smart Contract Engineer,Blockchain,Berlin,117711,"Rust, Ethereum",Blockchain,Stepstone (Germany),No,Small,3/5/2025,Medium,Mid,Medium Recommended
+173,Blockchain Developer,Blockchain,Dubai,218890,"Rust, Ethereum",Blockchain,Bayt (UAE),Yes,Medium,2/23/2025,High,Senior,Highly Recommended
+174,Renewable Energy Engineer,Green Tech,New York,197656,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),Yes,Large,6/24/2025,High,Senior,Highly Recommended
+175,Smart Contract Engineer,Blockchain,Singapore,182118,"Ethereum, Solidity",Blockchain,MyCareersFuture (SG),No,Small,7/30/2025,High,Senior,Medium Recommended
+176,Sustainability Analyst,Green Tech,Berlin,73481,"Energy Modeling, Climate Data Analysis",Data Analystics,Stepstone (Germany),Yes,Large,6/1/2025,Low,Entry,Medium Recommended
+177,Blockchain Developer,Blockchain,New York,155470,"Ethereum, Solidity",Blockchain,Linkedin (USA),No,Small,9/24/2025,High,Senior,Medium Recommended
+178,Renewable Energy Engineer,Green Tech,Dubai,129100,"Energy Modeling, Climate Data Analysis",Data Analystics,Bayt (UAE),No,Medium,12/12/2025,Medium,Mid,Medium Recommended
+179,Quantum Researcher,Quantum Computing,London,146322,"Linear Algebra, Qiskit",Quantum Computing,Indeed (UK),Yes,Large,1/21/2025,Medium,Mid,Highly Recommended
+180,Smart Contract Engineer,Blockchain,Dubai,57434,"Ethereum, Solidity",Blockchain,Bayt (UAE),No,Small,6/15/2025,Low,Entry,Not Recommended
+181,Quantum Researcher,Quantum Computing,London,51885,"Quantum Algorithms, Linear Algebra",Programing,Indeed (UK),No,Medium,5/5/2025,Low,Entry,Not Recommended
+182,Quantum Software Developer,Quantum Computing,London,83588,"Quantum Algorithms, Qiskit",Quantum Computing,Indeed (UK),Yes,Large,11/14/2025,Low,Entry,Highly Recommended
+183,Renewable Energy Engineer,Green Tech,Singapore,141564,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),Yes,Large,3/27/2025,Medium,Mid,Medium Recommended
+184,Quantum Researcher,Quantum Computing,Berlin,229705,"Linear Algebra, Quantum Algorithms",Programing,Stepstone (Germany),No,Large,4/11/2025,High,Senior,Medium Recommended
+185,Sustainability Analyst,Green Tech,Dubai,86346,"Energy Modeling, Climate Data Analysis",Data Analystics,Bayt (UAE),Yes,Medium,9/18/2025,Low,Entry,Medium Recommended
+186,ML Researcher,AI,Tokyo,132971,"Python, PyTorch",AI/ML,Rikunabi (Japan),Yes,Small,7/16/2025,Medium,Mid,Highly Recommended
+187,Renewable Energy Engineer,Green Tech,Tokyo,168602,"Energy Modeling, Climate Data Analysis",Data Analystics,Rikunabi (Japan),Yes,Small,1/16/2025,High,Senior,Medium Recommended
+188,Quantum Software Developer,Quantum Computing,Tokyo,165036,"Qiskit, Linear Algebra",Quantum Computing,Rikunabi (Japan),Yes,Small,8/5/2025,High,Senior,Highly Recommended
+189,Sustainability Analyst,Green Tech,London,149363,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),No,Large,9/16/2025,Medium,Mid,Medium Recommended
+190,Smart Contract Engineer,Blockchain,Dubai,169342,"Solidity, Rust",Blockchain,Bayt (UAE),No,Small,3/14/2025,High,Senior,Medium Recommended
+191,Quantum Researcher,Quantum Computing,London,86692,"Quantum Algorithms, Qiskit",Quantum Computing,Indeed (UK),Yes,Medium,10/4/2025,Low,Entry,Medium Recommended
+192,Data Scientist,AI,Singapore,178069,"TensorFlow, Python",AI/ML,MyCareersFuture (SG),Yes,Medium,10/2/2025,High,Senior,Highly Recommended
+193,Sustainability Analyst,Green Tech,New York,188115,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),Yes,Small,9/28/2025,High,Senior,Medium Recommended
+194,ML Researcher,AI,London,78160,"TensorFlow, Python",AI/ML,Indeed (UK),Yes,Small,2/1/2025,Low,Entry,Medium Recommended
+195,Quantum Software Developer,Quantum Computing,Dubai,223060,"Qiskit, Linear Algebra",Quantum Computing,Bayt (UAE),No,Small,10/11/2025,High,Senior,Highly Recommended
+196,Smart Contract Engineer,Blockchain,Tokyo,113011,"Solidity, Rust",Blockchain,Rikunabi (Japan),Yes,Large,9/13/2025,Medium,Mid,Highly Recommended
+197,Quantum Software Developer,Quantum Computing,Singapore,163975,"Quantum Algorithms, Qiskit",Quantum Computing,MyCareersFuture (SG),No,Large,2/5/2025,High,Senior,Highly Recommended
+198,Blockchain Developer,Blockchain,New York,154984,"Rust, Ethereum",Blockchain,Linkedin (USA),No,Small,9/16/2025,High,Senior,Medium Recommended
+199,ML Researcher,AI,Singapore,108419,"TensorFlow, Python",AI/ML,MyCareersFuture (SG),Yes,Small,10/13/2025,Medium,Mid,Medium Recommended
+200,Renewable Energy Engineer,Green Tech,London,141585,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),Yes,Large,1/9/2025,Medium,Mid,Medium Recommended
+201,Smart Contract Engineer,Blockchain,Singapore,162399,"Rust, Solidity",Blockchain,MyCareersFuture (SG),Yes,Large,8/9/2025,High,Senior,Highly Recommended
+202,Smart Contract Engineer,Blockchain,London,235501,"Rust, Ethereum",Blockchain,Indeed (UK),Yes,Large,3/30/2025,High,Senior,Highly Recommended
+203,Quantum Software Developer,Quantum Computing,Tokyo,155892,"Linear Algebra, Quantum Algorithms",Programing,Rikunabi (Japan),Yes,Large,7/30/2025,High,Senior,Highly Recommended
+204,Smart Contract Engineer,Blockchain,Singapore,79487,"Rust, Solidity",Blockchain,MyCareersFuture (SG),No,Large,6/15/2025,Low,Entry,Medium Recommended
+205,Data Scientist,AI,London,208206,"TensorFlow, Python",AI/ML,Indeed (UK),No,Small,3/15/2025,High,Senior,Highly Recommended
+206,Smart Contract Engineer,Blockchain,Dubai,124758,"Rust, Solidity",Blockchain,Bayt (UAE),Yes,Large,6/19/2025,Medium,Mid,Highly Recommended
+207,Quantum Software Developer,Quantum Computing,Berlin,66624,"Qiskit, Quantum Algorithms",Quantum Computing,Stepstone (Germany),No,Large,3/11/2025,Low,Entry,Medium Recommended
+208,Quantum Software Developer,Quantum Computing,New York,164103,"Quantum Algorithms, Qiskit",Quantum Computing,Linkedin (USA),Yes,Small,10/7/2025,High,Senior,Highly Recommended
+209,Sustainability Analyst,Green Tech,New York,203897,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),Yes,Medium,6/5/2025,High,Senior,Highly Recommended
+210,Smart Contract Engineer,Blockchain,Berlin,65042,"Solidity, Rust",Blockchain,Stepstone (Germany),Yes,Medium,8/16/2025,Low,Entry,Medium Recommended
+211,Sustainability Analyst,Green Tech,Dubai,121216,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),Yes,Large,10/21/2025,Medium,Mid,Medium Recommended
+212,Quantum Researcher,Quantum Computing,Singapore,215387,"Quantum Algorithms, Qiskit",Quantum Computing,MyCareersFuture (SG),No,Small,11/30/2025,High,Senior,Highly Recommended
+213,Smart Contract Engineer,Blockchain,London,240101,"Ethereum, Solidity",Blockchain,Indeed (UK),Yes,Medium,12/30/2025,High,Senior,Highly Recommended
+214,ML Researcher,AI,Dubai,220415,"PyTorch, TensorFlow",AI/ML,Bayt (UAE),No,Large,11/13/2025,High,Senior,Highly Recommended
+215,Sustainability Analyst,Green Tech,Berlin,221994,"Climate Data Analysis, Energy Modeling",Data Analystics,Stepstone (Germany),Yes,Large,12/15/2025,High,Senior,Highly Recommended
+216,Quantum Researcher,Quantum Computing,Dubai,175521,"Qiskit, Linear Algebra",Quantum Computing,Bayt (UAE),Yes,Medium,5/2/2025,High,Senior,Highly Recommended
+217,Renewable Energy Engineer,Green Tech,London,97662,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),No,Small,2/20/2025,Low,Entry,Medium Recommended
+218,Blockchain Developer,Blockchain,Dubai,100205,"Ethereum, Solidity",Blockchain,Bayt (UAE),No,Small,11/7/2025,Medium,Mid,Medium Recommended
+219,Renewable Energy Engineer,Green Tech,Berlin,188304,"Energy Modeling, Climate Data Analysis",Data Analystics,Stepstone (Germany),Yes,Large,1/10/2025,High,Senior,Highly Recommended
+220,Blockchain Developer,Blockchain,Berlin,89969,"Ethereum, Rust",Blockchain,Stepstone (Germany),Yes,Small,3/31/2025,Low,Entry,Medium Recommended
+221,Quantum Researcher,Quantum Computing,London,186919,"Quantum Algorithms, Qiskit",Quantum Computing,Indeed (UK),No,Medium,9/29/2025,High,Senior,Highly Recommended
+222,AI Engineer,AI,Dubai,179721,"Python, PyTorch",AI/ML,Bayt (UAE),No,Large,10/16/2025,High,Senior,Highly Recommended
+223,Renewable Energy Engineer,Green Tech,Dubai,170643,"Energy Modeling, Climate Data Analysis",Data Analystics,Bayt (UAE),Yes,Small,1/16/2025,High,Senior,Medium Recommended
+224,Sustainability Analyst,Green Tech,Berlin,231713,"Energy Modeling, Climate Data Analysis",Data Analystics,Stepstone (Germany),No,Medium,8/6/2025,High,Senior,Medium Recommended
+225,Quantum Software Developer,Quantum Computing,Tokyo,103854,"Linear Algebra, Quantum Algorithms",Programing,Rikunabi (Japan),No,Small,9/15/2025,Medium,Mid,Not Recommended
+226,Quantum Researcher,Quantum Computing,New York,127374,"Linear Algebra, Quantum Algorithms",Programing,Linkedin (USA),No,Medium,5/24/2025,Medium,Mid,Medium Recommended
+227,Blockchain Developer,Blockchain,Dubai,104431,"Solidity, Rust",Blockchain,Bayt (UAE),Yes,Small,7/17/2025,Medium,Mid,Medium Recommended
+228,Blockchain Developer,Blockchain,Tokyo,153673,"Rust, Ethereum",Blockchain,Rikunabi (Japan),No,Large,10/31/2025,High,Senior,Highly Recommended
+229,Sustainability Analyst,Green Tech,Tokyo,152582,"Climate Data Analysis, Energy Modeling",Data Analystics,Rikunabi (Japan),No,Medium,8/26/2025,High,Senior,Medium Recommended
+230,Data Scientist,AI,London,233856,"TensorFlow, PyTorch",AI/ML,Indeed (UK),Yes,Medium,11/25/2025,High,Senior,Highly Recommended
+231,Blockchain Developer,Blockchain,London,223210,"Ethereum, Rust",Blockchain,Indeed (UK),No,Medium,3/23/2025,High,Senior,Highly Recommended
+232,Sustainability Analyst,Green Tech,Singapore,174471,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Large,4/16/2025,High,Senior,Medium Recommended
+233,Blockchain Developer,Blockchain,Berlin,87352,"Solidity, Rust",Blockchain,Stepstone (Germany),Yes,Large,6/2/2025,Low,Entry,Medium Recommended
+234,Blockchain Developer,Blockchain,Tokyo,84604,"Ethereum, Rust",Blockchain,Rikunabi (Japan),Yes,Medium,12/6/2025,Low,Entry,Medium Recommended
+235,ML Researcher,AI,Dubai,169919,"Python, PyTorch",AI/ML,Bayt (UAE),No,Small,3/5/2025,High,Senior,Highly Recommended
+236,Quantum Researcher,Quantum Computing,Dubai,167425,"Quantum Algorithms, Qiskit",Quantum Computing,Bayt (UAE),Yes,Large,10/23/2025,High,Senior,Highly Recommended
+237,Blockchain Developer,Blockchain,Dubai,147685,"Rust, Ethereum",Blockchain,Bayt (UAE),Yes,Small,6/7/2025,Medium,Mid,Medium Recommended
+238,Sustainability Analyst,Green Tech,Berlin,121292,"Climate Data Analysis, Energy Modeling",Data Analystics,Stepstone (Germany),No,Medium,5/29/2025,Medium,Mid,Medium Recommended
+239,Blockchain Developer,Blockchain,New York,201356,"Solidity, Ethereum",Blockchain,Linkedin (USA),No,Small,4/22/2025,High,Senior,Medium Recommended
+240,Quantum Software Developer,Quantum Computing,London,171712,"Qiskit, Quantum Algorithms",Quantum Computing,Indeed (UK),Yes,Small,5/12/2025,High,Senior,Highly Recommended
+241,Data Scientist,AI,New York,70577,"TensorFlow, Python",AI/ML,Linkedin (USA),No,Small,8/11/2025,Low,Entry,Not Recommended
+242,ML Researcher,AI,London,199785,"PyTorch, TensorFlow",AI/ML,Indeed (UK),No,Medium,8/1/2025,High,Senior,Highly Recommended
+243,Renewable Energy Engineer,Green Tech,New York,82221,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),No,Medium,9/26/2025,Low,Entry,Medium Recommended
+244,Renewable Energy Engineer,Green Tech,Dubai,195969,"Energy Modeling, Climate Data Analysis",Data Analystics,Bayt (UAE),No,Medium,2/2/2025,High,Senior,Medium Recommended
+245,Blockchain Developer,Blockchain,Berlin,162050,"Rust, Ethereum",Blockchain,Stepstone (Germany),No,Medium,6/30/2025,High,Senior,Highly Recommended
+246,Sustainability Analyst,Green Tech,Berlin,194488,"Climate Data Analysis, Energy Modeling",Data Analystics,Stepstone (Germany),Yes,Small,10/18/2025,High,Senior,Medium Recommended
+247,Data Scientist,AI,Tokyo,107470,"TensorFlow, Python",AI/ML,Rikunabi (Japan),No,Medium,1/26/2025,Medium,Mid,Medium Recommended
+248,Data Scientist,AI,London,213416,"Python, PyTorch",AI/ML,Indeed (UK),Yes,Small,4/9/2025,High,Senior,Highly Recommended
+249,Blockchain Developer,Blockchain,Berlin,214218,"Rust, Ethereum",Blockchain,Stepstone (Germany),Yes,Large,12/15/2025,High,Senior,Highly Recommended
+250,Sustainability Analyst,Green Tech,Dubai,55485,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),Yes,Small,8/31/2025,Low,Entry,Medium Recommended
+251,Smart Contract Engineer,Blockchain,Singapore,163716,"Ethereum, Solidity",Blockchain,MyCareersFuture (SG),No,Medium,4/21/2025,High,Senior,Highly Recommended
+252,Quantum Researcher,Quantum Computing,London,238275,"Quantum Algorithms, Qiskit",Quantum Computing,Indeed (UK),Yes,Medium,7/22/2025,High,Senior,Highly Recommended
+253,Sustainability Analyst,Green Tech,London,114598,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),No,Medium,11/4/2025,Medium,Mid,Medium Recommended
+254,Renewable Energy Engineer,Green Tech,Singapore,223986,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Small,12/16/2025,High,Senior,Medium Recommended
+255,Blockchain Developer,Blockchain,London,158911,"Ethereum, Solidity",Blockchain,Indeed (UK),No,Medium,8/29/2025,High,Senior,Highly Recommended
+256,Quantum Software Developer,Quantum Computing,Berlin,123935,"Quantum Algorithms, Qiskit",Quantum Computing,Stepstone (Germany),No,Small,7/11/2025,Medium,Mid,Medium Recommended
+257,ML Researcher,AI,London,162536,"PyTorch, Python",AI/ML,Indeed (UK),Yes,Small,4/8/2025,High,Senior,Highly Recommended
+258,Quantum Researcher,Quantum Computing,New York,161797,"Qiskit, Linear Algebra",Quantum Computing,Linkedin (USA),Yes,Large,10/8/2025,High,Senior,Highly Recommended
+259,AI Engineer,AI,Dubai,53672,"PyTorch, TensorFlow",AI/ML,Bayt (UAE),Yes,Small,4/5/2025,Low,Entry,Medium Recommended
+260,Quantum Software Developer,Quantum Computing,Berlin,206868,"Linear Algebra, Qiskit",Quantum Computing,Stepstone (Germany),No,Large,2/8/2025,High,Senior,Highly Recommended
+261,Quantum Researcher,Quantum Computing,New York,184640,"Linear Algebra, Quantum Algorithms",Programing,Linkedin (USA),No,Medium,5/4/2025,High,Senior,Medium Recommended
+262,Blockchain Developer,Blockchain,New York,198679,"Ethereum, Rust",Blockchain,Linkedin (USA),No,Medium,1/13/2025,High,Senior,Highly Recommended
+263,Blockchain Developer,Blockchain,Singapore,202663,"Solidity, Rust",Blockchain,MyCareersFuture (SG),Yes,Medium,2/17/2025,High,Senior,Highly Recommended
+264,Data Scientist,AI,London,249271,"Python, TensorFlow",AI/ML,Indeed (UK),No,Small,7/24/2025,High,Senior,Highly Recommended
+265,Blockchain Developer,Blockchain,Berlin,234884,"Solidity, Ethereum",Blockchain,Stepstone (Germany),Yes,Large,1/10/2025,High,Senior,Highly Recommended
+266,Quantum Software Developer,Quantum Computing,Berlin,144434,"Quantum Algorithms, Linear Algebra",Programing,Stepstone (Germany),No,Medium,12/27/2025,Medium,Mid,Medium Recommended
+267,Blockchain Developer,Blockchain,New York,160471,"Ethereum, Rust",Blockchain,Linkedin (USA),No,Small,9/9/2025,High,Senior,Medium Recommended
+268,ML Researcher,AI,New York,192965,"TensorFlow, PyTorch",AI/ML,Linkedin (USA),Yes,Large,10/20/2025,High,Senior,Highly Recommended
+269,Blockchain Developer,Blockchain,New York,129326,"Solidity, Ethereum",Blockchain,Linkedin (USA),No,Small,12/19/2025,Medium,Mid,Medium Recommended
+270,Data Scientist,AI,Tokyo,206457,"Python, TensorFlow",AI/ML,Rikunabi (Japan),No,Medium,11/24/2025,High,Senior,Highly Recommended
+271,Renewable Energy Engineer,Green Tech,New York,195567,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),Yes,Small,1/3/2025,High,Senior,Medium Recommended
+272,Sustainability Analyst,Green Tech,Dubai,62070,"Energy Modeling, Climate Data Analysis",Data Analystics,Bayt (UAE),Yes,Medium,7/11/2025,Low,Entry,Medium Recommended
+273,Sustainability Analyst,Green Tech,Dubai,242766,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),Yes,Medium,8/18/2025,High,Senior,Highly Recommended
+274,Smart Contract Engineer,Blockchain,Tokyo,165283,"Rust, Ethereum",Blockchain,Rikunabi (Japan),No,Medium,8/6/2025,High,Senior,Highly Recommended
+275,Quantum Researcher,Quantum Computing,Dubai,50084,"Quantum Algorithms, Qiskit",Quantum Computing,Bayt (UAE),Yes,Large,10/21/2025,Low,Entry,Medium Recommended
+276,Blockchain Developer,Blockchain,New York,209737,"Ethereum, Rust",Blockchain,Linkedin (USA),No,Medium,3/28/2025,High,Senior,Highly Recommended
+277,AI Engineer,AI,Tokyo,113730,"TensorFlow, Python",AI/ML,Rikunabi (Japan),No,Medium,1/19/2025,Medium,Mid,Medium Recommended
+278,Sustainability Analyst,Green Tech,Singapore,117569,"Energy Modeling, Climate Data Analysis",Data Analystics,MyCareersFuture (SG),Yes,Small,9/21/2025,Medium,Mid,Medium Recommended
+279,Data Scientist,AI,London,131320,"Python, TensorFlow",AI/ML,Indeed (UK),No,Medium,5/8/2025,Medium,Mid,Medium Recommended
+280,Quantum Researcher,Quantum Computing,Berlin,172788,"Quantum Algorithms, Qiskit",Quantum Computing,Stepstone (Germany),Yes,Large,11/4/2025,High,Senior,Highly Recommended
+281,Renewable Energy Engineer,Green Tech,London,186080,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),Yes,Medium,9/12/2025,High,Senior,Highly Recommended
+282,Smart Contract Engineer,Blockchain,Berlin,165173,"Ethereum, Solidity",Blockchain,Stepstone (Germany),Yes,Small,12/18/2025,High,Senior,Highly Recommended
+283,Quantum Software Developer,Quantum Computing,New York,246553,"Qiskit, Quantum Algorithms",Quantum Computing,Linkedin (USA),Yes,Large,1/3/2025,High,Senior,Highly Recommended
+284,ML Researcher,AI,Tokyo,195597,"PyTorch, Python",AI/ML,Rikunabi (Japan),No,Large,5/4/2025,High,Senior,Highly Recommended
+285,Data Scientist,AI,Tokyo,59479,"PyTorch, TensorFlow",AI/ML,Rikunabi (Japan),Yes,Large,10/29/2025,Low,Entry,Medium Recommended
+286,Renewable Energy Engineer,Green Tech,Singapore,138239,"Energy Modeling, Climate Data Analysis",Data Analystics,MyCareersFuture (SG),Yes,Large,3/19/2025,Medium,Mid,Medium Recommended
+287,AI Engineer,AI,Singapore,173598,"Python, TensorFlow",AI/ML,MyCareersFuture (SG),Yes,Large,6/7/2025,High,Senior,Highly Recommended
+288,Sustainability Analyst,Green Tech,Berlin,62647,"Energy Modeling, Climate Data Analysis",Data Analystics,Stepstone (Germany),No,Large,10/18/2025,Low,Entry,Medium Recommended
+289,Quantum Researcher,Quantum Computing,New York,189982,"Linear Algebra, Quantum Algorithms",Programing,Linkedin (USA),Yes,Small,6/3/2025,High,Senior,Medium Recommended
+290,Quantum Software Developer,Quantum Computing,Singapore,225747,"Linear Algebra, Quantum Algorithms",Programing,MyCareersFuture (SG),No,Large,9/13/2025,High,Senior,Medium Recommended
+291,ML Researcher,AI,Tokyo,181809,"Python, PyTorch",AI/ML,Rikunabi (Japan),No,Large,9/18/2025,High,Senior,Highly Recommended
+292,ML Researcher,AI,New York,53761,"Python, PyTorch",AI/ML,Linkedin (USA),No,Medium,9/1/2025,Low,Entry,Medium Recommended
+293,Quantum Researcher,Quantum Computing,New York,91939,"Qiskit, Linear Algebra",Quantum Computing,Linkedin (USA),No,Medium,8/17/2025,Low,Entry,Medium Recommended
+294,Blockchain Developer,Blockchain,Dubai,219592,"Rust, Solidity",Blockchain,Bayt (UAE),Yes,Medium,8/16/2025,High,Senior,Highly Recommended
+295,ML Researcher,AI,Berlin,87456,"PyTorch, Python",AI/ML,Stepstone (Germany),Yes,Medium,8/7/2025,Low,Entry,Medium Recommended
+296,Blockchain Developer,Blockchain,Tokyo,228842,"Ethereum, Rust",Blockchain,Rikunabi (Japan),No,Medium,10/4/2025,High,Senior,Highly Recommended
+297,Sustainability Analyst,Green Tech,London,207440,"Climate Data Analysis, Energy Modeling",Data Analystics,Indeed (UK),Yes,Small,5/15/2025,High,Senior,Medium Recommended
+298,Quantum Software Developer,Quantum Computing,New York,188712,"Qiskit, Linear Algebra",Quantum Computing,Linkedin (USA),Yes,Medium,1/17/2025,High,Senior,Highly Recommended
+299,AI Engineer,AI,Singapore,225177,"TensorFlow, Python",AI/ML,MyCareersFuture (SG),Yes,Medium,4/21/2025,High,Senior,Highly Recommended
+300,Renewable Energy Engineer,Green Tech,London,194766,"Climate Data Analysis, Energy Modeling",Data Analystics,Indeed (UK),No,Large,10/7/2025,High,Senior,Medium Recommended
+301,Data Scientist,AI,Berlin,179123,"Python, PyTorch",AI/ML,Stepstone (Germany),Yes,Small,11/29/2025,High,Senior,Highly Recommended
+302,Quantum Software Developer,Quantum Computing,New York,115891,"Qiskit, Quantum Algorithms",Quantum Computing,Linkedin (USA),Yes,Small,9/23/2025,Medium,Mid,Medium Recommended
+303,Data Scientist,AI,Dubai,228311,"Python, TensorFlow",AI/ML,Bayt (UAE),Yes,Small,1/8/2025,High,Senior,Highly Recommended
+304,Data Scientist,AI,London,147285,"Python, TensorFlow",AI/ML,Indeed (UK),Yes,Medium,7/2/2025,Medium,Mid,Highly Recommended
+305,Renewable Energy Engineer,Green Tech,London,92209,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),No,Medium,2/19/2025,Low,Entry,Medium Recommended
+306,Smart Contract Engineer,Blockchain,Singapore,67089,"Ethereum, Solidity",Blockchain,MyCareersFuture (SG),No,Medium,1/25/2025,Low,Entry,Not Recommended
+307,Blockchain Developer,Blockchain,Singapore,108677,"Rust, Ethereum",Blockchain,MyCareersFuture (SG),No,Small,11/7/2025,Medium,Mid,Medium Recommended
+308,Blockchain Developer,Blockchain,Dubai,97793,"Solidity, Rust",Blockchain,Bayt (UAE),No,Large,4/18/2025,Low,Entry,Medium Recommended
+309,Sustainability Analyst,Green Tech,Tokyo,113976,"Energy Modeling, Climate Data Analysis",Data Analystics,Rikunabi (Japan),Yes,Large,11/12/2025,Medium,Mid,Medium Recommended
+310,Blockchain Developer,Blockchain,Dubai,182185,"Ethereum, Solidity",Blockchain,Bayt (UAE),Yes,Large,5/23/2025,High,Senior,Highly Recommended
+311,Blockchain Developer,Blockchain,Singapore,56237,"Rust, Solidity",Blockchain,MyCareersFuture (SG),No,Small,8/31/2025,Low,Entry,Not Recommended
+312,Blockchain Developer,Blockchain,New York,154178,"Rust, Ethereum",Blockchain,Linkedin (USA),Yes,Large,11/7/2025,High,Senior,Highly Recommended
+313,Smart Contract Engineer,Blockchain,New York,213007,"Ethereum, Rust",Blockchain,Linkedin (USA),Yes,Large,7/14/2025,High,Senior,Highly Recommended
+314,Sustainability Analyst,Green Tech,Tokyo,160512,"Energy Modeling, Climate Data Analysis",Data Analystics,Rikunabi (Japan),No,Large,6/13/2025,High,Senior,Medium Recommended
+315,Smart Contract Engineer,Blockchain,Singapore,51571,"Rust, Ethereum",Blockchain,MyCareersFuture (SG),No,Large,3/7/2025,Low,Entry,Medium Recommended
+316,Quantum Researcher,Quantum Computing,London,83203,"Quantum Algorithms, Qiskit",Quantum Computing,Indeed (UK),No,Medium,12/28/2025,Low,Entry,Medium Recommended
+317,AI Engineer,AI,Tokyo,94561,"Python, PyTorch",AI/ML,Rikunabi (Japan),Yes,Medium,7/13/2025,Low,Entry,Medium Recommended
+318,Renewable Energy Engineer,Green Tech,Berlin,189091,"Energy Modeling, Climate Data Analysis",Data Analystics,Stepstone (Germany),No,Small,2/6/2025,High,Senior,Medium Recommended
+319,ML Researcher,AI,New York,101878,"PyTorch, TensorFlow",AI/ML,Linkedin (USA),Yes,Medium,8/30/2025,Medium,Mid,Highly Recommended
+320,Sustainability Analyst,Green Tech,New York,102711,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),No,Large,8/8/2025,Medium,Mid,Medium Recommended
+321,Smart Contract Engineer,Blockchain,New York,210938,"Solidity, Ethereum",Blockchain,Linkedin (USA),Yes,Medium,3/30/2025,High,Senior,Highly Recommended
+322,Quantum Researcher,Quantum Computing,Dubai,125946,"Quantum Algorithms, Linear Algebra",Programing,Bayt (UAE),Yes,Large,5/14/2025,Medium,Mid,Medium Recommended
+323,Smart Contract Engineer,Blockchain,Singapore,239176,"Rust, Ethereum",Blockchain,MyCareersFuture (SG),No,Medium,3/12/2025,High,Senior,Highly Recommended
+324,Quantum Researcher,Quantum Computing,Singapore,116494,"Qiskit, Quantum Algorithms",Quantum Computing,MyCareersFuture (SG),No,Large,4/7/2025,Medium,Mid,Medium Recommended
+325,Smart Contract Engineer,Blockchain,Singapore,165464,"Solidity, Rust",Blockchain,MyCareersFuture (SG),No,Large,9/4/2025,High,Senior,Highly Recommended
+326,Blockchain Developer,Blockchain,Berlin,140214,"Solidity, Rust",Blockchain,Stepstone (Germany),No,Large,11/5/2025,Medium,Mid,Medium Recommended
+327,Sustainability Analyst,Green Tech,London,236285,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),Yes,Small,4/13/2025,High,Senior,Medium Recommended
+328,Sustainability Analyst,Green Tech,Berlin,57998,"Energy Modeling, Climate Data Analysis",Data Analystics,Stepstone (Germany),No,Medium,8/27/2025,Low,Entry,Medium Recommended
+329,Quantum Researcher,Quantum Computing,London,67782,"Linear Algebra, Quantum Algorithms",Programing,Indeed (UK),Yes,Large,12/20/2025,Low,Entry,Medium Recommended
+330,Sustainability Analyst,Green Tech,London,112010,"Climate Data Analysis, Energy Modeling",Data Analystics,Indeed (UK),Yes,Large,8/20/2025,Medium,Mid,Medium Recommended
+331,AI Engineer,AI,Berlin,102852,"PyTorch, TensorFlow",AI/ML,Stepstone (Germany),Yes,Small,6/24/2025,Medium,Mid,Medium Recommended
+332,Sustainability Analyst,Green Tech,Berlin,141362,"Climate Data Analysis, Energy Modeling",Data Analystics,Stepstone (Germany),Yes,Small,2/14/2025,Medium,Mid,Medium Recommended
+333,Quantum Software Developer,Quantum Computing,Berlin,103504,"Quantum Algorithms, Qiskit",Quantum Computing,Stepstone (Germany),Yes,Small,8/28/2025,Medium,Mid,Medium Recommended
+334,Quantum Software Developer,Quantum Computing,London,219566,"Quantum Algorithms, Qiskit",Quantum Computing,Indeed (UK),Yes,Small,5/12/2025,High,Senior,Highly Recommended
+335,Quantum Software Developer,Quantum Computing,Dubai,91002,"Quantum Algorithms, Linear Algebra",Programing,Bayt (UAE),No,Large,2/24/2025,Low,Entry,Medium Recommended
+336,Renewable Energy Engineer,Green Tech,Dubai,84036,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),Yes,Large,4/4/2025,Low,Entry,Medium Recommended
+337,Blockchain Developer,Blockchain,Dubai,128405,"Ethereum, Rust",Blockchain,Bayt (UAE),Yes,Small,7/19/2025,Medium,Mid,Medium Recommended
+338,Smart Contract Engineer,Blockchain,Singapore,117662,"Ethereum, Solidity",Blockchain,MyCareersFuture (SG),Yes,Medium,6/25/2025,Medium,Mid,Medium Recommended
+339,Quantum Researcher,Quantum Computing,London,139155,"Linear Algebra, Qiskit",Quantum Computing,Indeed (UK),No,Medium,6/11/2025,Medium,Mid,Medium Recommended
+340,Quantum Researcher,Quantum Computing,London,197438,"Qiskit, Quantum Algorithms",Quantum Computing,Indeed (UK),No,Medium,11/7/2025,High,Senior,Highly Recommended
+341,Data Scientist,AI,New York,58935,"PyTorch, TensorFlow",AI/ML,Linkedin (USA),Yes,Small,4/15/2025,Low,Entry,Medium Recommended
+342,Quantum Software Developer,Quantum Computing,London,95148,"Linear Algebra, Qiskit",Quantum Computing,Indeed (UK),Yes,Medium,12/31/2025,Low,Entry,Medium Recommended
+343,Sustainability Analyst,Green Tech,London,242218,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),No,Medium,9/4/2025,High,Senior,Medium Recommended
+344,Quantum Software Developer,Quantum Computing,London,178028,"Quantum Algorithms, Qiskit",Quantum Computing,Indeed (UK),No,Medium,5/9/2025,High,Senior,Highly Recommended
+345,Quantum Software Developer,Quantum Computing,Tokyo,58887,"Quantum Algorithms, Qiskit",Quantum Computing,Rikunabi (Japan),Yes,Large,9/18/2025,Low,Entry,Medium Recommended
+346,Data Scientist,AI,Dubai,169737,"TensorFlow, PyTorch",AI/ML,Bayt (UAE),No,Medium,8/20/2025,High,Senior,Highly Recommended
+347,Renewable Energy Engineer,Green Tech,Singapore,115852,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Medium,1/17/2025,Medium,Mid,Medium Recommended
+348,Quantum Researcher,Quantum Computing,Singapore,56500,"Qiskit, Quantum Algorithms",Quantum Computing,MyCareersFuture (SG),Yes,Medium,6/15/2025,Low,Entry,Medium Recommended
+349,Quantum Software Developer,Quantum Computing,New York,88932,"Qiskit, Quantum Algorithms",Quantum Computing,Linkedin (USA),No,Medium,6/10/2025,Low,Entry,Medium Recommended
+350,Blockchain Developer,Blockchain,Tokyo,117120,"Rust, Ethereum",Blockchain,Rikunabi (Japan),No,Large,8/5/2025,Medium,Mid,Medium Recommended
+351,ML Researcher,AI,Tokyo,147703,"Python, PyTorch",AI/ML,Rikunabi (Japan),No,Large,6/9/2025,Medium,Mid,Highly Recommended
+352,AI Engineer,AI,Singapore,244822,"Python, PyTorch",AI/ML,MyCareersFuture (SG),No,Large,7/4/2025,High,Senior,Highly Recommended
+353,Quantum Software Developer,Quantum Computing,London,219567,"Qiskit, Quantum Algorithms",Quantum Computing,Indeed (UK),No,Large,4/22/2025,High,Senior,Highly Recommended
+354,Blockchain Developer,Blockchain,London,114846,"Rust, Ethereum",Blockchain,Indeed (UK),Yes,Small,9/27/2025,Medium,Mid,Medium Recommended
+355,AI Engineer,AI,New York,229931,"TensorFlow, PyTorch",AI/ML,Linkedin (USA),No,Small,10/25/2025,High,Senior,Highly Recommended
+356,Sustainability Analyst,Green Tech,Dubai,158052,"Energy Modeling, Climate Data Analysis",Data Analystics,Bayt (UAE),Yes,Large,3/2/2025,High,Senior,Highly Recommended
+357,Data Scientist,AI,Singapore,133015,"Python, TensorFlow",AI/ML,MyCareersFuture (SG),Yes,Large,4/13/2025,Medium,Mid,Highly Recommended
+358,AI Engineer,AI,New York,146383,"Python, TensorFlow",AI/ML,Linkedin (USA),Yes,Small,8/12/2025,Medium,Mid,Highly Recommended
+359,Quantum Researcher,Quantum Computing,Tokyo,129813,"Linear Algebra, Quantum Algorithms",Programing,Rikunabi (Japan),Yes,Medium,10/31/2025,Medium,Mid,Medium Recommended
+360,Data Scientist,AI,Dubai,84857,"TensorFlow, Python",AI/ML,Bayt (UAE),No,Medium,10/18/2025,Low,Entry,Medium Recommended
+361,Data Scientist,AI,Dubai,170799,"Python, PyTorch",AI/ML,Bayt (UAE),Yes,Large,5/2/2025,High,Senior,Highly Recommended
+362,Blockchain Developer,Blockchain,Berlin,78647,"Ethereum, Rust",Blockchain,Stepstone (Germany),No,Large,5/1/2025,Low,Entry,Medium Recommended
+363,Data Scientist,AI,New York,189001,"PyTorch, TensorFlow",AI/ML,Linkedin (USA),No,Large,4/20/2025,High,Senior,Highly Recommended
+364,Quantum Software Developer,Quantum Computing,Dubai,209482,"Quantum Algorithms, Qiskit",Quantum Computing,Bayt (UAE),No,Medium,8/26/2025,High,Senior,Highly Recommended
+365,ML Researcher,AI,New York,201369,"TensorFlow, PyTorch",AI/ML,Linkedin (USA),Yes,Large,5/28/2025,High,Senior,Highly Recommended
+366,Blockchain Developer,Blockchain,Singapore,216423,"Rust, Ethereum",Blockchain,MyCareersFuture (SG),No,Large,2/1/2025,High,Senior,Highly Recommended
+367,Blockchain Developer,Blockchain,New York,156003,"Ethereum, Rust",Blockchain,Linkedin (USA),Yes,Small,12/15/2025,High,Senior,Highly Recommended
+368,AI Engineer,AI,Tokyo,163778,"Python, TensorFlow",AI/ML,Rikunabi (Japan),Yes,Large,1/22/2025,High,Senior,Highly Recommended
+369,Quantum Researcher,Quantum Computing,Tokyo,134471,"Quantum Algorithms, Linear Algebra",Programing,Rikunabi (Japan),Yes,Large,4/21/2025,Medium,Mid,Medium Recommended
+370,Quantum Researcher,Quantum Computing,New York,218932,"Linear Algebra, Quantum Algorithms",Programing,Linkedin (USA),Yes,Medium,11/19/2025,High,Senior,Highly Recommended
+371,Renewable Energy Engineer,Green Tech,Berlin,226106,"Climate Data Analysis, Energy Modeling",Data Analystics,Stepstone (Germany),Yes,Small,1/13/2025,High,Senior,Medium Recommended
+372,Sustainability Analyst,Green Tech,New York,104430,"Energy Modeling, Climate Data Analysis",Data Analystics,Linkedin (USA),No,Large,12/1/2025,Medium,Mid,Medium Recommended
+373,AI Engineer,AI,Singapore,127659,"PyTorch, TensorFlow",AI/ML,MyCareersFuture (SG),No,Medium,8/26/2025,Medium,Mid,Medium Recommended
+374,Quantum Researcher,Quantum Computing,Tokyo,74999,"Quantum Algorithms, Qiskit",Quantum Computing,Rikunabi (Japan),No,Medium,1/24/2025,Low,Entry,Medium Recommended
+375,Sustainability Analyst,Green Tech,Dubai,191767,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),No,Small,8/15/2025,High,Senior,Medium Recommended
+376,Data Scientist,AI,Dubai,190849,"PyTorch, Python",AI/ML,Bayt (UAE),Yes,Large,1/9/2025,High,Senior,Highly Recommended
+377,Quantum Software Developer,Quantum Computing,Tokyo,199256,"Linear Algebra, Quantum Algorithms",Programing,Rikunabi (Japan),No,Medium,6/13/2025,High,Senior,Medium Recommended
+378,Quantum Researcher,Quantum Computing,Tokyo,79818,"Quantum Algorithms, Linear Algebra",Programing,Rikunabi (Japan),Yes,Small,10/31/2025,Low,Entry,Not Recommended
+379,Sustainability Analyst,Green Tech,Berlin,114333,"Energy Modeling, Climate Data Analysis",Data Analystics,Stepstone (Germany),Yes,Medium,8/23/2025,Medium,Mid,Medium Recommended
+380,Quantum Software Developer,Quantum Computing,London,238053,"Quantum Algorithms, Qiskit",Quantum Computing,Indeed (UK),No,Medium,3/15/2025,High,Senior,Highly Recommended
+381,Quantum Software Developer,Quantum Computing,Singapore,243235,"Qiskit, Linear Algebra",Quantum Computing,MyCareersFuture (SG),No,Medium,3/4/2025,High,Senior,Highly Recommended
+382,Renewable Energy Engineer,Green Tech,Singapore,242951,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Large,10/17/2025,High,Senior,Medium Recommended
+383,Data Scientist,AI,Berlin,228292,"Python, TensorFlow",AI/ML,Stepstone (Germany),No,Medium,7/23/2025,High,Senior,Highly Recommended
+384,Renewable Energy Engineer,Green Tech,Singapore,190602,"Energy Modeling, Climate Data Analysis",Data Analystics,MyCareersFuture (SG),No,Small,10/25/2025,High,Senior,Medium Recommended
+385,Renewable Energy Engineer,Green Tech,Tokyo,146899,"Climate Data Analysis, Energy Modeling",Data Analystics,Rikunabi (Japan),Yes,Large,3/4/2025,Medium,Mid,Medium Recommended
+386,AI Engineer,AI,Tokyo,155438,"PyTorch, Python",AI/ML,Rikunabi (Japan),No,Medium,8/29/2025,High,Senior,Highly Recommended
+387,Quantum Researcher,Quantum Computing,New York,78889,"Linear Algebra, Qiskit",Quantum Computing,Linkedin (USA),No,Medium,7/11/2025,Low,Entry,Medium Recommended
+388,Blockchain Developer,Blockchain,New York,232862,"Solidity, Ethereum",Blockchain,Linkedin (USA),Yes,Small,11/14/2025,High,Senior,Highly Recommended
+389,Data Scientist,AI,Singapore,97650,"Python, TensorFlow",AI/ML,MyCareersFuture (SG),No,Small,5/1/2025,Low,Entry,Medium Recommended
+390,Blockchain Developer,Blockchain,Singapore,186341,"Solidity, Rust",Blockchain,MyCareersFuture (SG),No,Small,4/8/2025,High,Senior,Medium Recommended
+391,Smart Contract Engineer,Blockchain,New York,234768,"Solidity, Rust",Blockchain,Linkedin (USA),No,Large,4/30/2025,High,Senior,Highly Recommended
+392,Sustainability Analyst,Green Tech,Dubai,168471,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),Yes,Medium,6/15/2025,High,Senior,Highly Recommended
+393,Blockchain Developer,Blockchain,Dubai,246192,"Solidity, Rust",Blockchain,Bayt (UAE),Yes,Medium,9/8/2025,High,Senior,Highly Recommended
+394,Blockchain Developer,Blockchain,Berlin,194330,"Solidity, Rust",Blockchain,Stepstone (Germany),Yes,Medium,5/18/2025,High,Senior,Highly Recommended
+395,Sustainability Analyst,Green Tech,Singapore,63690,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),Yes,Medium,2/13/2025,Low,Entry,Medium Recommended
+396,Data Scientist,AI,Berlin,147252,"TensorFlow, PyTorch",AI/ML,Stepstone (Germany),No,Large,12/24/2025,Medium,Mid,Highly Recommended
+397,Renewable Energy Engineer,Green Tech,Berlin,90550,"Energy Modeling, Climate Data Analysis",Data Analystics,Stepstone (Germany),Yes,Medium,2/11/2025,Low,Entry,Medium Recommended
+398,Blockchain Developer,Blockchain,Singapore,242091,"Rust, Solidity",Blockchain,MyCareersFuture (SG),No,Medium,8/16/2025,High,Senior,Highly Recommended
+399,Quantum Software Developer,Quantum Computing,Tokyo,180192,"Linear Algebra, Qiskit",Quantum Computing,Rikunabi (Japan),Yes,Medium,11/8/2025,High,Senior,Highly Recommended
+400,Sustainability Analyst,Green Tech,Dubai,78876,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),Yes,Medium,9/12/2025,Low,Entry,Medium Recommended
+401,Renewable Energy Engineer,Green Tech,Dubai,83922,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),Yes,Small,6/17/2025,Low,Entry,Medium Recommended
+402,Smart Contract Engineer,Blockchain,London,51792,"Ethereum, Rust",Blockchain,Indeed (UK),No,Small,6/9/2025,Low,Entry,Not Recommended
+403,Smart Contract Engineer,Blockchain,London,140669,"Rust, Ethereum",Blockchain,Indeed (UK),No,Medium,12/12/2025,Medium,Mid,Medium Recommended
+404,Smart Contract Engineer,Blockchain,Singapore,168955,"Ethereum, Rust",Blockchain,MyCareersFuture (SG),Yes,Medium,8/8/2025,High,Senior,Highly Recommended
+405,ML Researcher,AI,Tokyo,133229,"Python, TensorFlow",AI/ML,Rikunabi (Japan),Yes,Large,10/8/2025,Medium,Mid,Highly Recommended
+406,Quantum Researcher,Quantum Computing,London,90504,"Qiskit, Quantum Algorithms",Quantum Computing,Indeed (UK),No,Small,9/28/2025,Low,Entry,Medium Recommended
+407,Smart Contract Engineer,Blockchain,Singapore,166676,"Rust, Ethereum",Blockchain,MyCareersFuture (SG),Yes,Medium,3/11/2025,High,Senior,Highly Recommended
+408,ML Researcher,AI,Berlin,195441,"PyTorch, TensorFlow",AI/ML,Stepstone (Germany),No,Large,11/15/2025,High,Senior,Highly Recommended
+409,Renewable Energy Engineer,Green Tech,Berlin,182652,"Climate Data Analysis, Energy Modeling",Data Analystics,Stepstone (Germany),Yes,Small,5/24/2025,High,Senior,Medium Recommended
+410,Smart Contract Engineer,Blockchain,New York,174787,"Ethereum, Rust",Blockchain,Linkedin (USA),No,Small,7/24/2025,High,Senior,Medium Recommended
+411,Renewable Energy Engineer,Green Tech,London,139296,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),Yes,Small,4/11/2025,Medium,Mid,Medium Recommended
+412,Renewable Energy Engineer,Green Tech,Dubai,72499,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),No,Medium,3/24/2025,Low,Entry,Medium Recommended
+413,Smart Contract Engineer,Blockchain,Tokyo,106868,"Ethereum, Solidity",Blockchain,Rikunabi (Japan),Yes,Small,3/6/2025,Medium,Mid,Medium Recommended
+414,Renewable Energy Engineer,Green Tech,Singapore,184537,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Medium,1/20/2025,High,Senior,Medium Recommended
+415,Smart Contract Engineer,Blockchain,Dubai,81596,"Ethereum, Solidity",Blockchain,Bayt (UAE),No,Medium,10/12/2025,Low,Entry,Medium Recommended
+416,Sustainability Analyst,Green Tech,London,58940,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),No,Large,11/12/2025,Low,Entry,Medium Recommended
+417,Blockchain Developer,Blockchain,New York,133736,"Solidity, Rust",Blockchain,Linkedin (USA),Yes,Small,5/20/2025,Medium,Mid,Medium Recommended
+418,Sustainability Analyst,Green Tech,Tokyo,191872,"Climate Data Analysis, Energy Modeling",Data Analystics,Rikunabi (Japan),No,Medium,8/6/2025,High,Senior,Medium Recommended
+419,ML Researcher,AI,New York,223206,"PyTorch, Python",AI/ML,Linkedin (USA),Yes,Small,6/20/2025,High,Senior,Highly Recommended
+420,Smart Contract Engineer,Blockchain,Berlin,160670,"Ethereum, Rust",Blockchain,Stepstone (Germany),No,Small,10/8/2025,High,Senior,Medium Recommended
+421,Sustainability Analyst,Green Tech,Dubai,127776,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),No,Small,7/6/2025,Medium,Mid,Medium Recommended
+422,Quantum Software Developer,Quantum Computing,Berlin,179154,"Quantum Algorithms, Qiskit",Quantum Computing,Stepstone (Germany),No,Small,5/25/2025,High,Senior,Highly Recommended
+423,Quantum Researcher,Quantum Computing,Singapore,201190,"Qiskit, Linear Algebra",Quantum Computing,MyCareersFuture (SG),No,Medium,10/30/2025,High,Senior,Highly Recommended
+424,Quantum Researcher,Quantum Computing,Singapore,124993,"Quantum Algorithms, Qiskit",Quantum Computing,MyCareersFuture (SG),Yes,Small,1/7/2025,Medium,Mid,Highly Recommended
+425,Renewable Energy Engineer,Green Tech,Berlin,176604,"Climate Data Analysis, Energy Modeling",Data Analystics,Stepstone (Germany),No,Medium,5/29/2025,High,Senior,Medium Recommended
+426,ML Researcher,AI,Tokyo,168859,"PyTorch, Python",AI/ML,Rikunabi (Japan),No,Large,12/14/2025,High,Senior,Highly Recommended
+427,Sustainability Analyst,Green Tech,Tokyo,146224,"Energy Modeling, Climate Data Analysis",Data Analystics,Rikunabi (Japan),No,Small,9/22/2025,Medium,Mid,Medium Recommended
+428,Quantum Researcher,Quantum Computing,Dubai,149285,"Qiskit, Linear Algebra",Quantum Computing,Bayt (UAE),No,Large,11/19/2025,Medium,Mid,Highly Recommended
+429,Smart Contract Engineer,Blockchain,Dubai,214945,"Rust, Ethereum",Blockchain,Bayt (UAE),No,Small,7/26/2025,High,Senior,Medium Recommended
+430,AI Engineer,AI,Berlin,120612,"Python, TensorFlow",AI/ML,Stepstone (Germany),No,Large,6/5/2025,Medium,Mid,Highly Recommended
+431,AI Engineer,AI,Dubai,202542,"Python, PyTorch",AI/ML,Bayt (UAE),Yes,Small,8/19/2025,High,Senior,Highly Recommended
+432,AI Engineer,AI,New York,156534,"Python, TensorFlow",AI/ML,Linkedin (USA),Yes,Small,9/3/2025,High,Senior,Highly Recommended
+433,Blockchain Developer,Blockchain,New York,73801,"Ethereum, Solidity",Blockchain,Linkedin (USA),Yes,Medium,1/11/2025,Low,Entry,Medium Recommended
+434,Quantum Software Developer,Quantum Computing,London,73437,"Linear Algebra, Qiskit",Quantum Computing,Indeed (UK),No,Large,9/25/2025,Low,Entry,Medium Recommended
+435,Sustainability Analyst,Green Tech,Berlin,198715,"Energy Modeling, Climate Data Analysis",Data Analystics,Stepstone (Germany),No,Small,4/27/2025,High,Senior,Medium Recommended
+436,Quantum Researcher,Quantum Computing,London,214445,"Qiskit, Quantum Algorithms",Quantum Computing,Indeed (UK),Yes,Large,7/9/2025,High,Senior,Highly Recommended
+437,AI Engineer,AI,Dubai,184024,"TensorFlow, Python",AI/ML,Bayt (UAE),No,Medium,6/13/2025,High,Senior,Highly Recommended
+438,Smart Contract Engineer,Blockchain,Dubai,195268,"Solidity, Ethereum",Blockchain,Bayt (UAE),Yes,Large,11/16/2025,High,Senior,Highly Recommended
+439,Sustainability Analyst,Green Tech,Berlin,203120,"Energy Modeling, Climate Data Analysis",Data Analystics,Stepstone (Germany),No,Medium,3/20/2025,High,Senior,Medium Recommended
+440,Smart Contract Engineer,Blockchain,Dubai,87116,"Rust, Solidity",Blockchain,Bayt (UAE),Yes,Small,10/27/2025,Low,Entry,Medium Recommended
+441,Blockchain Developer,Blockchain,London,215736,"Ethereum, Solidity",Blockchain,Indeed (UK),Yes,Medium,11/5/2025,High,Senior,Highly Recommended
+442,AI Engineer,AI,Dubai,123216,"Python, PyTorch",AI/ML,Bayt (UAE),No,Medium,5/13/2025,Medium,Mid,Medium Recommended
+443,Quantum Software Developer,Quantum Computing,Singapore,93522,"Quantum Algorithms, Linear Algebra",Programing,MyCareersFuture (SG),No,Small,11/12/2025,Low,Entry,Not Recommended
+444,Renewable Energy Engineer,Green Tech,Dubai,198105,"Energy Modeling, Climate Data Analysis",Data Analystics,Bayt (UAE),No,Medium,8/2/2025,High,Senior,Medium Recommended
+445,Blockchain Developer,Blockchain,New York,218608,"Ethereum, Solidity",Blockchain,Linkedin (USA),No,Small,5/8/2025,High,Senior,Medium Recommended
+446,Blockchain Developer,Blockchain,Berlin,166336,"Ethereum, Rust",Blockchain,Stepstone (Germany),No,Large,5/4/2025,High,Senior,Highly Recommended
+447,Renewable Energy Engineer,Green Tech,New York,233278,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),No,Medium,7/9/2025,High,Senior,Medium Recommended
+448,Quantum Software Developer,Quantum Computing,Berlin,89399,"Quantum Algorithms, Qiskit",Quantum Computing,Stepstone (Germany),Yes,Small,6/26/2025,Low,Entry,Medium Recommended
+449,Renewable Energy Engineer,Green Tech,Dubai,50684,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),No,Small,12/23/2025,Low,Entry,Not Recommended
+450,Renewable Energy Engineer,Green Tech,Tokyo,187071,"Energy Modeling, Climate Data Analysis",Data Analystics,Rikunabi (Japan),Yes,Medium,5/24/2025,High,Senior,Highly Recommended
+451,Data Scientist,AI,New York,61025,"TensorFlow, Python",AI/ML,Linkedin (USA),Yes,Medium,8/20/2025,Low,Entry,Medium Recommended
+452,Renewable Energy Engineer,Green Tech,New York,142555,"Energy Modeling, Climate Data Analysis",Data Analystics,Linkedin (USA),No,Small,12/5/2025,Medium,Mid,Medium Recommended
+453,Sustainability Analyst,Green Tech,New York,240887,"Energy Modeling, Climate Data Analysis",Data Analystics,Linkedin (USA),No,Medium,8/27/2025,High,Senior,Medium Recommended
+454,Sustainability Analyst,Green Tech,London,139782,"Climate Data Analysis, Energy Modeling",Data Analystics,Indeed (UK),Yes,Small,9/4/2025,Medium,Mid,Medium Recommended
+455,AI Engineer,AI,Dubai,121537,"Python, TensorFlow",AI/ML,Bayt (UAE),No,Small,6/11/2025,Medium,Mid,Medium Recommended
+456,ML Researcher,AI,Tokyo,235697,"PyTorch, Python",AI/ML,Rikunabi (Japan),Yes,Large,7/12/2025,High,Senior,Highly Recommended
+457,Renewable Energy Engineer,Green Tech,Berlin,117977,"Energy Modeling, Climate Data Analysis",Data Analystics,Stepstone (Germany),Yes,Medium,3/1/2025,Medium,Mid,Medium Recommended
+458,Blockchain Developer,Blockchain,Singapore,129287,"Ethereum, Solidity",Blockchain,MyCareersFuture (SG),No,Medium,3/5/2025,Medium,Mid,Medium Recommended
+459,Blockchain Developer,Blockchain,New York,153886,"Solidity, Rust",Blockchain,Linkedin (USA),Yes,Small,4/7/2025,High,Senior,Highly Recommended
+460,Sustainability Analyst,Green Tech,London,84819,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),No,Large,12/14/2025,Low,Entry,Medium Recommended
+461,Renewable Energy Engineer,Green Tech,Berlin,174189,"Climate Data Analysis, Energy Modeling",Data Analystics,Stepstone (Germany),Yes,Small,1/22/2025,High,Senior,Medium Recommended
+462,Quantum Researcher,Quantum Computing,London,137374,"Linear Algebra, Quantum Algorithms",Programing,Indeed (UK),No,Large,8/20/2025,Medium,Mid,Medium Recommended
+463,Quantum Researcher,Quantum Computing,Singapore,69178,"Quantum Algorithms, Linear Algebra",Programing,MyCareersFuture (SG),Yes,Medium,6/25/2025,Low,Entry,Not Recommended
+464,Quantum Researcher,Quantum Computing,Singapore,70967,"Linear Algebra, Quantum Algorithms",Programing,MyCareersFuture (SG),No,Small,3/11/2025,Low,Entry,Not Recommended
+465,Quantum Researcher,Quantum Computing,Tokyo,156167,"Quantum Algorithms, Qiskit",Quantum Computing,Rikunabi (Japan),No,Medium,2/23/2025,High,Senior,Highly Recommended
+466,Blockchain Developer,Blockchain,New York,72732,"Ethereum, Solidity",Blockchain,Linkedin (USA),No,Medium,1/30/2025,Low,Entry,Not Recommended
+467,Renewable Energy Engineer,Green Tech,London,130893,"Climate Data Analysis, Energy Modeling",Data Analystics,Indeed (UK),No,Large,1/19/2025,Medium,Mid,Medium Recommended
+468,Smart Contract Engineer,Blockchain,Singapore,214473,"Rust, Solidity",Blockchain,MyCareersFuture (SG),No,Medium,9/14/2025,High,Senior,Highly Recommended
+469,Renewable Energy Engineer,Green Tech,Tokyo,57448,"Energy Modeling, Climate Data Analysis",Data Analystics,Rikunabi (Japan),No,Large,5/15/2025,Low,Entry,Medium Recommended
+470,AI Engineer,AI,Berlin,115110,"Python, TensorFlow",AI/ML,Stepstone (Germany),No,Small,7/26/2025,Medium,Mid,Medium Recommended
+471,Quantum Software Developer,Quantum Computing,Berlin,160580,"Qiskit, Quantum Algorithms",Quantum Computing,Stepstone (Germany),Yes,Small,8/25/2025,High,Senior,Highly Recommended
+472,Sustainability Analyst,Green Tech,New York,154612,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),Yes,Large,1/19/2025,High,Senior,Highly Recommended
+473,Data Scientist,AI,New York,227822,"Python, TensorFlow",AI/ML,Linkedin (USA),Yes,Medium,4/6/2025,High,Senior,Highly Recommended
+474,AI Engineer,AI,London,81161,"Python, TensorFlow",AI/ML,Indeed (UK),Yes,Small,5/25/2025,Low,Entry,Medium Recommended
+475,Sustainability Analyst,Green Tech,New York,146220,"Climate Data Analysis, Energy Modeling",Data Analystics,Linkedin (USA),Yes,Medium,1/15/2025,Medium,Mid,Medium Recommended
+476,AI Engineer,AI,New York,224888,"Python, PyTorch",AI/ML,Linkedin (USA),No,Medium,2/19/2025,High,Senior,Highly Recommended
+477,Quantum Researcher,Quantum Computing,Berlin,61680,"Qiskit, Linear Algebra",Quantum Computing,Stepstone (Germany),Yes,Small,3/24/2025,Low,Entry,Medium Recommended
+478,Renewable Energy Engineer,Green Tech,Tokyo,133736,"Energy Modeling, Climate Data Analysis",Data Analystics,Rikunabi (Japan),No,Large,9/20/2025,Medium,Mid,Medium Recommended
+479,Sustainability Analyst,Green Tech,New York,246219,"Energy Modeling, Climate Data Analysis",Data Analystics,Linkedin (USA),Yes,Small,6/26/2025,High,Senior,Medium Recommended
+480,Renewable Energy Engineer,Green Tech,Dubai,90321,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),Yes,Small,7/5/2025,Low,Entry,Medium Recommended
+481,Renewable Energy Engineer,Green Tech,London,225142,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),Yes,Large,8/18/2025,High,Senior,Highly Recommended
+482,Sustainability Analyst,Green Tech,Dubai,161919,"Climate Data Analysis, Energy Modeling",Data Analystics,Bayt (UAE),No,Large,5/1/2025,High,Senior,Medium Recommended
+483,Quantum Software Developer,Quantum Computing,Singapore,67804,"Linear Algebra, Qiskit",Quantum Computing,MyCareersFuture (SG),No,Medium,4/2/2025,Low,Entry,Medium Recommended
+484,Quantum Researcher,Quantum Computing,Dubai,83285,"Quantum Algorithms, Qiskit",Quantum Computing,Bayt (UAE),Yes,Small,6/27/2025,Low,Entry,Medium Recommended
+485,ML Researcher,AI,Tokyo,242262,"Python, PyTorch",AI/ML,Rikunabi (Japan),Yes,Small,2/9/2025,High,Senior,Highly Recommended
+486,Renewable Energy Engineer,Green Tech,Singapore,190724,"Energy Modeling, Climate Data Analysis",Data Analystics,MyCareersFuture (SG),Yes,Medium,7/29/2025,High,Senior,Highly Recommended
+487,Data Scientist,AI,Berlin,183323,"PyTorch, TensorFlow",AI/ML,Stepstone (Germany),No,Small,12/1/2025,High,Senior,Highly Recommended
+488,Sustainability Analyst,Green Tech,Singapore,68201,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Large,3/14/2025,Low,Entry,Medium Recommended
+489,Data Scientist,AI,New York,237571,"Python, TensorFlow",AI/ML,Linkedin (USA),Yes,Small,6/6/2025,High,Senior,Highly Recommended
+490,AI Engineer,AI,Berlin,167552,"TensorFlow, PyTorch",AI/ML,Stepstone (Germany),No,Small,5/26/2025,High,Senior,Highly Recommended
+491,Blockchain Developer,Blockchain,Tokyo,59812,"Solidity, Ethereum",Blockchain,Rikunabi (Japan),Yes,Medium,8/15/2025,Low,Entry,Medium Recommended
+492,Quantum Software Developer,Quantum Computing,Singapore,225508,"Quantum Algorithms, Linear Algebra",Programing,MyCareersFuture (SG),No,Medium,11/8/2025,High,Senior,Medium Recommended
+493,Quantum Software Developer,Quantum Computing,Berlin,102129,"Linear Algebra, Quantum Algorithms",Programing,Stepstone (Germany),No,Large,9/8/2025,Medium,Mid,Medium Recommended
+494,Renewable Energy Engineer,Green Tech,London,177272,"Energy Modeling, Climate Data Analysis",Data Analystics,Indeed (UK),No,Medium,9/20/2025,High,Senior,Medium Recommended
+495,Sustainability Analyst,Green Tech,Singapore,131613,"Climate Data Analysis, Energy Modeling",Data Analystics,MyCareersFuture (SG),No,Medium,1/30/2025,Medium,Mid,Medium Recommended
+496,Blockchain Developer,Blockchain,New York,232233,"Solidity, Ethereum",Blockchain,Linkedin (USA),Yes,Small,12/27/2025,High,Senior,Highly Recommended
+497,Quantum Researcher,Quantum Computing,Tokyo,218314,"Qiskit, Linear Algebra",Quantum Computing,Rikunabi (Japan),No,Small,3/24/2025,High,Senior,Highly Recommended
+498,Blockchain Developer,Blockchain,Singapore,191220,"Ethereum, Solidity",Blockchain,MyCareersFuture (SG),Yes,Medium,7/26/2025,High,Senior,Highly Recommended
+499,ML Researcher,AI,New York,161961,"TensorFlow, PyTorch",AI/ML,Linkedin (USA),No,Medium,6/13/2025,High,Senior,Highly Recommended
+500,Renewable Energy Engineer,Green Tech,Berlin,175802,"Climate Data Analysis, Energy Modeling",Data Analystics,Stepstone (Germany),No,Medium,3/6/2025,High,Senior,Medium Recommended
